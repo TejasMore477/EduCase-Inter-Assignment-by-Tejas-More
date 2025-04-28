@@ -13,7 +13,7 @@ function Home() {
           dolorum!
         </p>
 
-        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-center gap-5">
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-center gap-2">
           <Link
             to="/register"
             className="px-6 py-2 text-white rounded-md text-center bg-PrimaryColor hover:bg-HoverPrimary transition"

@@ -12,7 +12,7 @@ function Dashbord() {
     <div className="min-h-screen bg-gradient-to-b from-gray-100 to-purple-100 ">
       {/* Account Settings */}
       <div className="bg-white py-4 px-5">
-        <p className="text-xl font-semibold text-gray-500">Account Seetings</p>
+        <p className="text-xl font-semibold text-gray-500 cursor-pointer">Account Seetings</p>
       </div>
 
       <div className="flex my-3 px-5">
