@@ -22,7 +22,7 @@ function Register() {
   return (
     <div className="min-h-screen flex flex-col sm:justify-center sm:items-center px-5 py-8 bg-gradient-to-b from-gray-100 to-purple-100">
       <div className="w-full max-w-md">
-        <h1 className="text-2xl md:text-4xl font-bold mb-3 w-[60%] sm:w-full">
+        <h1 className="text-3xl md:text-4xl font-bold mb-3 w-[60%] sm:w-full sm:text-center">
           Create your PopX account
         </h1>
         <p className="text-gray-500 mb-6 sm:text-center">
